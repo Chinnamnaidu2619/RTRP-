@@ -1,0 +1,212 @@
+[
+  {
+    "section_id": 1,
+    "section_name": "CSE-A",
+    "year": 1
+  },
+  {
+    "section_id": 2,
+    "section_name": "CSE-B",
+    "year": 1
+  },
+  {
+    "section_id": 43,
+    "section_name": "CSE-A",
+    "year": 2
+  },
+  {
+    "section_id": 44,
+    "section_name": "CSE-A",
+    "year": 3
+  },
+  {
+    "section_id": 45,
+    "section_name": "CSE-A",
+    "year": 4
+  },
+  {
+    "section_id": 46,
+    "section_name": "CSE-B",
+    "year": 2
+  },
+  {
+    "section_id": 47,
+    "section_name": "CSE-B",
+    "year": 3
+  },
+  {
+    "section_id": 48,
+    "section_name": "CSE-B",
+    "year": 4
+  },
+  {
+    "section_id": 49,
+    "section_name": "CSE-C",
+    "year": 2
+  },
+  {
+    "section_id": 50,
+    "section_name": "CSE-C",
+    "year": 3
+  },
+  {
+    "section_id": 51,
+    "section_name": "CSE-C",
+    "year": 4
+  },
+  {
+    "section_id": 52,
+    "section_name": "CSE-D",
+    "year": 2
+  },
+  {
+    "section_id": 53,
+    "section_name": "CSE-D",
+    "year": 3
+  },
+  {
+    "section_id": 54,
+    "section_name": "CSE-D",
+    "year": 4
+  },
+  {
+    "section_id": 55,
+    "section_name": "CSE-E",
+    "year": 2
+  },
+  {
+    "section_id": 56,
+    "section_name": "CSE-E",
+    "year": 3
+  },
+  {
+    "section_id": 57,
+    "section_name": "CSE-E",
+    "year": 4
+  },
+  {
+    "section_id": 58,
+    "section_name": "CSE-F",
+    "year": 2
+  },
+  {
+    "section_id": 59,
+    "section_name": "CSE-F",
+    "year": 3
+  },
+  {
+    "section_id": 61,
+    "section_name": "CSE-G",
+    "year": 2
+  },
+  {
+    "section_id": 62,
+    "section_name": "CSE-G",
+    "year": 3
+  },
+  {
+    "section_id": 64,
+    "section_name": "2-CSE-A",
+    "year": 2
+  },
+  {
+    "section_id": 65,
+    "section_name": "2-CSE-B",
+    "year": 2
+  },
+  {
+    "section_id": 66,
+    "section_name": "2-CSE-C",
+    "year": 2
+  },
+  {
+    "section_id": 67,
+    "section_name": "2-CSE-D",
+    "year": 2
+  },
+  {
+    "section_id": 68,
+    "section_name": "2-CSE-E",
+    "year": 2
+  },
+  {
+    "section_id": 69,
+    "section_name": "2-CSE-F",
+    "year": 2
+  },
+  {
+    "section_id": 70,
+    "section_name": "2-CSE-G",
+    "year": 2
+  },
+  {
+    "section_id": 71,
+    "section_name": "3-CSE-A",
+    "year": 3
+  },
+  {
+    "section_id": 72,
+    "section_name": "3-CSE-B",
+    "year": 3
+  },
+  {
+    "section_id": 73,
+    "section_name": "3-CSE-C",
+    "year": 3
+  },
+  {
+    "section_id": 74,
+    "section_name": "3-CSE-D",
+    "year": 3
+  },
+  {
+    "section_id": 75,
+    "section_name": "3-CSE-E",
+    "year": 3
+  },
+  {
+    "section_id": 76,
+    "section_name": "3-CSE-F",
+    "year": 3
+  },
+  {
+    "section_id": 77,
+    "section_name": "3-CSE-G",
+    "year": 3
+  },
+  {
+    "section_id": 78,
+    "section_name": "4-CSE-A",
+    "year": 4
+  },
+  {
+    "section_id": 79,
+    "section_name": "4-CSE-B",
+    "year": 4
+  },
+  {
+    "section_id": 80,
+    "section_name": "4-CSE-C",
+    "year": 4
+  },
+  {
+    "section_id": 81,
+    "section_name": "4-CSE-D",
+    "year": 4
+  },
+  {
+    "section_id": 82,
+    "section_name": "4-CSE-E",
+    "year": 4
+  },
+  {
+    "section_id": 83,
+    "section_name": "4-CSE-F",
+    "year": 4
+  },
+  {
+    "section_id": 84,
+    "section_name": "4-CSE-G",
+    "year": 4
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "subject_code": "A6CS06",
+    "year": 2,
+    "subject_name": "Discrete Mathematics",
+    "subject_type": "Theory",
+    "hours_per_week": 3,
+    "faculty_id": 161
+  },
+  {
+    "subject_code": "A6II30",
+    "year": 2,
+    "subject_name": "Introductory Statistics",
+    "subject_type": "Theory",
+    "hours_per_week": 3,
+    "faculty_id": null
+  },
+  {
+    "subject_code": "A6II11",
+    "year": 2,
+    "subject_name": "Automata Theory",
+    "subject_type": "Theory",
+    "hours_per_week": 3,
+    "faculty_id": null
+  },
+  {
+    "subject_code": "A6CS36",
+    "year": 4,
+    "subject_name": "Cloud Security",
+    "subject_type": "Theory",
+    "hours_per_week": 3,
+    "faculty_id": 203
+  },
+  {
+    "subject_code": "A6CS08",
+    "year": 2,
+    "subject_name": "Discrete Mathematics",
+    "subject_type": "Theory",
+    "hours_per_week": 3,
+    "faculty_id": 179
+  },
+  {
+    "subject_code": "A6HS08",
+    "year": 2,
+    "subject_name": "Business Economics and Financial Analysis",
+    "subject_type": "Theory",
+    "hours_per_week": 3,
+    "faculty_id": null
+  },
+  {
+    "subject_code": "A6CS09",
+    "year": 2,
+    "subject_name": "Database Management Systems",
+    "subject_type": "Theory",
+    "hours_per_week": 3,
+    "faculty_id": 205
+  },
+  {
+    "subject_code": "A6CS11",
+    "year": 2,
+    "subject_name": "Operating System",
+    "subject_type": "Theory",
+    "hours_per_week": 3,
+    "faculty_id": 173
+  },
+  {
+    "subject_code": "A6CS13",
+    "year": 2,
+    "subject_name": "Software Testing Fundamentals",
+    "subject_type": "Theory",
+    "hours_per_week": 3,
+    "faculty_id": 169
+  },
+  {
+    "subject_code": "A6CS10",
+    "year": 2,
+    "subject_name": "DBMS Lab",
+    "subject_type": "Lab",
+    "hours_per_week": 3,
+    "faculty_id": 205
+  },
+  {
+    "subject_code": "A6CS12",
+    "year": 2,
+    "subject_name": "OS Lab",
+    "subject_type": "Lab",
+    "hours_per_week": 3,
+    "faculty_id": 173
+  },
+  {
+    "subject_code": "A6CS14",
+    "year": 2,
+    "subject_name": "Real Time Research Project",
+    "subject_type": "Theory",
+    "hours_per_week": 2,
+    "faculty_id": 192
+  },
+  {
+    "subject_code": "A6CS53",
+    "year": 2,
+    "subject_name": "Skill Development",
+    "subject_type": "Theory",
+    "hours_per_week": 2,
+    "faculty_id": 161
+  },
+  {
+    "subject_code": "A6HS06",
+    "year": 2,
+    "subject_name": "Constitution of India",
+    "subject_type": "Theory",
+    "hours_per_week": 2,
+    "faculty_id": 181
+  },
+  {
+    "subject_code": "A6IT39",
+    "year": 3,
+    "subject_name": "Introduction to Artificial Intelligence",
+    "subject_type": "Theory",
+    "hours_per_week": 3,
+    "faculty_id": 170
+  },
+  {
+    "subject_code": "A6IT11",
+    "year": 3,
+    "subject_name": "Automata and Compiler Design",
+    "subject_type": "Theory",
+    "hours_per_week": 3,
+    "faculty_id": 204
+  },
+  {
+    "subject_code": "A6CS16",
+    "year": 3,
+    "subject_name": "Data Mining and Machine Learning",
+    "subject_type": "Theory",
+    "hours_per_week": 3,
+    "faculty_id": 164
+  },
+  {
+    "subject_code": "A6AI17",
+    "year": 3,
+    "subject_name": "Deep Learning",
+    "subject_type": "Theory",
+    "hours_per_week": 3,
+    "faculty_id": 184
+  },
+  {
+    "subject_code": "A6HS09",
+    "year": 3,
+    "subject_name": "Basics of Entrepreneurship",
+    "subject_type": "Theory",
+    "hours_per_week": 2,
+    "faculty_id": 181
+  },
+  {
+    "subject_code": "A6AI19",
+    "year": 3,
+    "subject_name": "Deep Learning Lab",
+    "subject_type": "Lab",
+    "hours_per_week": 3,
+    "faculty_id": 184
+  },
+  {
+    "subject_code": "A6CS17",
+    "year": 3,
+    "subject_name": "DML Lab",
+    "subject_type": "Lab",
+    "hours_per_week": 3,
+    "faculty_id": 164
+  },
+  {
+    "subject_code": "A6CS21",
+    "year": 3,
+    "subject_name": "Mini Project / Internship",
+    "subject_type": "Theory",
+    "hours_per_week": 2,
+    "faculty_id": 164
+  },
+  {
+    "subject_code": "A6BS11",
+    "year": 3,
+    "subject_name": "Environmental Science",
+    "subject_type": "Theory",
+    "hours_per_week": 2,
+    "faculty_id": 163
+  },
+  {
+    "subject_code": "A6CS38",
+    "year": 4,
+    "subject_name": "Cloud Security",
+    "subject_type": "Theory",
+    "hours_per_week": 3,
+    "faculty_id": 203
+  },
+  {
+    "subject_code": "A6HS12",
+    "year": 4,
+    "subject_name": "Management Science",
+    "subject_type": "Theory",
+    "hours_per_week": 3,
+    "faculty_id": null
+  },
+  {
+    "subject_code": "A6CS26",
+    "year": 4,
+    "subject_name": "Industry Training / Internship",
+    "subject_type": "Theory",
+    "hours_per_week": 2,
+    "faculty_id": null
+  },
+  {
+    "subject_code": "A6HS15",
+    "year": 4,
+    "subject_name": "Organizational Behavior",
+    "subject_type": "Theory",
+    "hours_per_week": 2,
+    "faculty_id": null
+  },
+  {
+    "subject_code": "A6CS27",
+    "year": 4,
+    "subject_name": "Major Project Phase 2",
+    "subject_type": "Theory",
+    "hours_per_week": 2,
+    "faculty_id": 159
+  }
+]

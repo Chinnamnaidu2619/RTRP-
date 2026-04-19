@@ -1,0 +1,100 @@
+
+=== SUBJECTS WITH NO FACULTY ASSIGNED ===
+Total: 43
+Subject Code: A6CS10 | Name: Discrete Mathematics | Year: 2 | Type: Theory | Hours/Week: 3
+Subject Code: A6CS11 | Name: Introductory Statistics | Year: 2 | Type: Theory | Hours/Week: 3
+Subject Code: A6CS14 | Name: Automata Theory | Year: 2 | Type: Theory | Hours/Week: 3
+Subject Code: A6II30 | Name: Business Economics | Year: 2 | Type: Theory | Hours/Week: 3
+Subject Code: A6CS13 | Name: Operating Systems | Year: 2 | Type: Theory | Hours/Week: 3
+Subject Code: A6CS08 | Name: Database Management | Year: 2 | Type: Theory | Hours/Week: 3
+Subject Code: A6CS12 | Name: OS Lab | Year: 2 | Type: Lab | Hours/Week: 3
+Subject Code: A6CS09 | Name: DBMS Lab | Year: 2 | Type: Lab | Hours/Week: 3
+Subject Code: A6HS08 | Name: RTRP | Year: 2 | Type: Theory | Hours/Week: 2
+Subject Code: A6HS06 | Name: Skill Development | Year: 2 | Type: Theory | Hours/Week: 2
+Subject Code: A6II11 | Name: Constitution of India | Year: 2 | Type: Theory | Hours/Week: 2
+Subject Code: A6CS06 | Name: Environmental Science | Year: 2 | Type: Theory | Hours/Week: 1
+Subject Code: LIB | Name: Library | Year: 2 | Type: Theory | Hours/Week: 1
+Subject Code: SPR | Name: Sports | Year: 2 | Type: Theory | Hours/Week: 1
+Subject Code: COU | Name: Counselling | Year: 2 | Type: Theory | Hours/Week: 1
+Subject Code: A7CS01 | Name: Management Systems | Year: 3 | Type: Theory | Hours/Week: 3
+Subject Code: A7CS02 | Name: Software Engineering | Year: 3 | Type: Theory | Hours/Week: 3
+Subject Code: A7CS03 | Name: Data Analysis | Year: 3 | Type: Theory | Hours/Week: 3
+Subject Code: A7CS04 | Name: Discrete Structure | Year: 3 | Type: Theory | Hours/Week: 3
+Subject Code: A7CS05 | Name: Machine Learning | Year: 3 | Type: Theory | Hours/Week: 3
+Subject Code: A7CS06 | Name: AI Techniques | Year: 3 | Type: Theory | Hours/Week: 3
+Subject Code: A7CS07 | Name: SE Lab | Year: 3 | Type: Lab | Hours/Week: 3
+Subject Code: A7CS08 | Name: DA Lab | Year: 3 | Type: Lab | Hours/Week: 3
+Subject Code: A7HS01 | Name: Industry Training | Year: 3 | Type: Theory | Hours/Week: 2
+Subject Code: A7HS02 | Name: Mini Project | Year: 3 | Type: Theory | Hours/Week: 2
+Subject Code: A7HS03 | Name: Soft Skills | Year: 3 | Type: Theory | Hours/Week: 2
+Subject Code: A7CS09 | Name: Ethics | Year: 3 | Type: Theory | Hours/Week: 1
+Subject Code: LIB | Name: Library | Year: 3 | Type: Theory | Hours/Week: 1
+Subject Code: SPR | Name: Sports | Year: 3 | Type: Theory | Hours/Week: 1
+Subject Code: COU | Name: Counselling | Year: 3 | Type: Theory | Hours/Week: 1
+Subject Code: A8CS01 | Name: Cloud Computing | Year: 4 | Type: Theory | Hours/Week: 3
+Subject Code: A8CS02 | Name: Big Data | Year: 4 | Type: Theory | Hours/Week: 3
+Subject Code: A8CS03 | Name: Security | Year: 4 | Type: Theory | Hours/Week: 3
+Subject Code: A8CS04 | Name: IoT | Year: 4 | Type: Theory | Hours/Week: 3
+Subject Code: A8CS05 | Name: Advanced AI | Year: 4 | Type: Theory | Hours/Week: 3
+Subject Code: A8CS06 | Name: Professional Ethics | Year: 4 | Type: Theory | Hours/Week: 3
+Subject Code: A8HS01 | Name: Major Project | Year: 4 | Type: Lab | Hours/Week: 6
+Subject Code: A8HS02 | Name: Internship | Year: 4 | Type: Theory | Hours/Week: 3
+Subject Code: A8HS03 | Name: Seminar | Year: 4 | Type: Theory | Hours/Week: 3
+Subject Code: A8HS04 | Name: Review | Year: 4 | Type: Theory | Hours/Week: 3
+Subject Code: LIB | Name: Library | Year: 4 | Type: Theory | Hours/Week: 1
+Subject Code: SPR | Name: Sports | Year: 4 | Type: Theory | Hours/Week: 1
+Subject Code: COU | Name: Counselling | Year: 4 | Type: Theory | Hours/Week: 1
+
+=== FACULTY NOT ASSIGNED TO ANY SUBJECT ===
+Total: 51
+ID: 1 | Name: Test Faculty | Dept: CSE | Email: test@test.com
+ID: 157 | Name: Dr. Ajmeera Kiran | Dept: CSE | Email: drajmeerakiran@mlrit.ac.in
+ID: 158 | Name: Dr. A. Balaram | Dept: CSE | Email: drabalaram@mlrit.ac.in
+ID: 159 | Name: Dr. K. Venkata Subbaiah | Dept: CSE | Email: drkvenkatasubbaiah@mlrit.ac.in
+ID: 160 | Name: Dr. K. Gagan Kumar | Dept: CSE | Email: drkgagankumar@mlrit.ac.in
+ID: 161 | Name: Dr. K. Pushpa Rani | Dept: CSE | Email: drkpushparani@mlrit.ac.in
+ID: 162 | Name: Dr. G. John Samuel Babu | Dept: CSE | Email: drgjohnsamuelbabu@mlrit.ac.in
+ID: 163 | Name: Dr. V Thrimurthulu | Dept: CSE | Email: drvthrimurthulu@mlrit.ac.in
+ID: 164 | Name: Dr K Chinnaiah | Dept: CSE | Email: drkchinnaiah@mlrit.ac.in
+ID: 165 | Name: Dr K Phalguna Rao | Dept: CSE | Email: drkphalgunarao@mlrit.ac.in
+ID: 166 | Name: Dr J Maha Laxmi | Dept: CSE | Email: drjmahalaxmi@mlrit.ac.in
+ID: 167 | Name: Dr P Radhika | Dept: CSE | Email: drpradhika@mlrit.ac.in
+ID: 168 | Name: Mr. M. Srinivasa Rao | Dept: CSE | Email: mrmsrinivasarao@mlrit.ac.in
+ID: 169 | Name: Mr. B. Devananda Rao | Dept: CSE | Email: mrbdevanandarao@mlrit.ac.in
+ID: 170 | Name: Mr.S K Lokesh Naik | Dept: CSE | Email: mrsklokeshnaik@mlrit.ac.in
+ID: 171 | Name: Mr.V Sai Krishna | Dept: CSE | Email: mrvsaikrishna@mlrit.ac.in
+ID: 172 | Name: Mr.B.Murali Krishna | Dept: CSE | Email: mrbmuralikrishna@mlrit.ac.in
+ID: 173 | Name: Mrs.A Nagamani | Dept: CSE | Email: mrsanagamani@mlrit.ac.in
+ID: 174 | Name: Mrs.A.Sangeetha | Dept: CSE | Email: mrsasangeetha@mlrit.ac.in
+ID: 175 | Name: Mr.M.Srinivasulu | Dept: CSE | Email: mrmsrinivasulu@mlrit.ac.in
+ID: 176 | Name: Mr.Tandra Nagarjuna | Dept: CSE | Email: mrtandranagarjuna@mlrit.ac.in
+ID: 177 | Name: Ms. D. Divya Priya | Dept: CSE | Email: msddivyapriya@mlrit.ac.in
+ID: 178 | Name: Mrs.I Saptami | Dept: CSE | Email: mrsisaptami@mlrit.ac.in
+ID: 179 | Name: Ms.A.Swathi | Dept: CSE | Email: msaswathi@mlrit.ac.in
+ID: 180 | Name: Mr. P. Purushotham | Dept: CSE | Email: mrppurushotham@mlrit.ac.in
+ID: 181 | Name: Mr.P.Victor Emmanuel | Dept: CSE | Email: mrpvictoremmanuel@mlrit.ac.in
+ID: 182 | Name: Mrs.B Veda Vidhya | Dept: CSE | Email: mrsbvedavidhya@mlrit.ac.in
+ID: 183 | Name: Mr S Lingaiah | Dept: CSE | Email: mrslingaiah@mlrit.ac.in
+ID: 184 | Name: Mrs. K Swetha | Dept: CSE | Email: mrskswetha@mlrit.ac.in
+ID: 185 | Name: Mrs. E.N. Vijaya Kumari | Dept: CSE | Email: mrsenvijayakumari@mlrit.ac.in
+ID: 186 | Name: Mrs.A Laxmi Prasanna | Dept: CSE | Email: mrsalaxmiprasanna@mlrit.ac.in
+ID: 187 | Name: Mrs. M. Vineesha | Dept: CSE | Email: mrsmvineesha@mlrit.ac.in
+ID: 188 | Name: Mr.P.Santhosh Kumar | Dept: CSE | Email: mrpsanthoshkumar@mlrit.ac.in
+ID: 189 | Name: Mrs.M.Soma Sabitha | Dept: CSE | Email: mrsmsomasabitha@mlrit.ac.in
+ID: 190 | Name: Mrs. P Sasmita Kumari | Dept: CSE | Email: mrspsasmitakumari@mlrit.ac.in
+ID: 191 | Name: Mrs.B.Srilatha | Dept: CSE | Email: mrsbsrilatha@mlrit.ac.in
+ID: 192 | Name: Mr. K. Shekar | Dept: CSE | Email: mrkshekar@mlrit.ac.in
+ID: 193 | Name: Mrs.J.Sri Lakshmi | Dept: CSE | Email: mrsjsrilakshmi@mlrit.ac.in
+ID: 194 | Name: Mr.G.Praveen | Dept: CSE | Email: mrgpraveen@mlrit.ac.in
+ID: 195 | Name: Mrs.B. Manjusha | Dept: CSE | Email: mrsbmanjusha@mlrit.ac.in
+ID: 196 | Name: Ms.J Kranthi Kumari | Dept: CSE | Email: msjkranthikumari@mlrit.ac.in
+ID: 197 | Name: Mr.G Nagarjuna Rao | Dept: CSE | Email: mrgnagarjunarao@mlrit.ac.in
+ID: 198 | Name: Mr.P.Hareesh | Dept: CSE | Email: mrphareesh@mlrit.ac.in
+ID: 199 | Name: Mr.R Madhu | Dept: CSE | Email: mrrmadhu@mlrit.ac.in
+ID: 200 | Name: Ms.D.Tejaswini | Dept: CSE | Email: msdtejaswini@mlrit.ac.in
+ID: 201 | Name: Mrs.D.Jeevitha | Dept: CSE | Email: mrsdjeevitha@mlrit.ac.in
+ID: 202 | Name: Ms.J Chaitanya | Dept: CSE | Email: msjchaitanya@mlrit.ac.in
+ID: 203 | Name: Mr.V.Bala Krishna Reddy | Dept: CSE | Email: mrvbalakrishnareddy@mlrit.ac.in
+ID: 204 | Name: Ms.Zeenath Jaha Begum | Dept: CSE | Email: mszeenathjahabegum@mlrit.ac.in
+ID: 205 | Name: Mrs.B.Ratnamala | Dept: CSE | Email: mrsbratnamala@mlrit.ac.in
+ID: 206 | Name: Ms.G.Durga Bhavani | Dept: CSE | Email: msgdurgabhavani@mlrit.ac.in

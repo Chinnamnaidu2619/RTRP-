@@ -1,0 +1,126 @@
+subject_code,subject_name,subject_type,hours_per_week,faculty_email,year
+A6CS06,Discrete Mathematics,Theory,3,kpushpara,2
+A6CS08,Discrete Mathematics,Theory,3,vsaitathya,2
+A6CS08,Discrete Mathematics,Theory,3,shaikmaha,2
+A6CS08,Discrete Mathematics,Theory,3,gdurgabha,2
+A6CS08,Discrete Mathematics,Theory,3,sberilatha,2
+A6CS08,Discrete Mathematics,Theory,3,saswathi@,2
+A6HS08,Business Economics,Theory,3,smuez@co,2
+A6HS08,Business Economics,Theory,3,mahammed,2
+A6HS08,Business Economics,Theory,3,gjoatrakur,2
+A6HS08,Business Economics,Theory,3,sdhrudaya,2
+A6CS09,Database Management Systems,Theory,3,skulakeshw,2
+A6CS09,Database Management Systems,Theory,3,shaikmaha,2
+A6CS09,Database Management Systems,Theory,3,bmuralikrish,2
+A6CS09,Database Management Systems,Theory,3,sasangeet,2
+A6CS09,Database Management Systems,Theory,3,senijaya,2
+A6CS09,Database Management Systems,Theory,3,somasebit,2
+A6CS09,Database Management Systems,Theory,3,sbratnama,2
+A6CS11,Operating Systems,Theory,3,psanthosh,2
+A6CS11,Operating Systems,Theory,3,nagarjuna,2
+A6CS11,Operating Systems,Theory,3,smvineesh,2
+A6CS11,Operating Systems,Theory,3,slingaiah@,2
+A6CS11,Operating Systems,Theory,3,sbvedavidy,2
+A6CS11,Operating Systems,Theory,3,smahalaks,2
+A6CS11,Operating Systems,Theory,3,sanagama,2
+A6CS13,Software Engineering,Theory,3,sbmanjusri,2
+A6CS13,Software Engineering,Theory,3,sanagama,2
+A6CS13,Software Engineering,Theory,3,slingaiah@,2
+A6CS13,Software Engineering,Theory,3,smvineesh,2
+A6CS13,Software Engineering,Theory,3,jchaitanya,2
+A6CS13,Software Engineering,Theory,3,senvijayaka,2
+A6CS13,Software Engineering,Theory,3,bdevanamd,2
+A6CS10,DBMS Lab,Lab,3,skulakeshw,2
+A6CS10,DBMS Lab,Lab,3,shaikmaha,2
+A6CS10,DBMS Lab,Lab,3,bmuralikrish,2
+A6CS10,DBMS Lab,Lab,3,sasangeet,2
+A6CS10,DBMS Lab,Lab,3,senvijayaka,2
+A6CS10,DBMS Lab,Lab,3,somasebit,2
+A6CS10,DBMS Lab,Lab,3,sbratnama,2
+A6CS12,OS Lab,Lab,3,psanthosh,2
+A6CS12,OS Lab,Lab,3,nagarjuna,2
+A6CS12,OS Lab,Lab,3,smvineesh,2
+A6CS12,OS Lab,Lab,3,slingaiah@,2
+A6CS12,OS Lab,Lab,3,sbvedavidy,2
+A6CS12,OS Lab,Lab,3,jmahalaks,2
+A6CS12,OS Lab,Lab,3,sanagama,2
+A6CS14,Real Time Project,Project,2,kphalgunei,2
+A6CS14,Real Time Project,Project,2,skavethee@,2
+A6CS14,Real Time Project,Project,2,spooramitha,2
+A6CS14,Real Time Project,Project,2,bdevanamd,2
+A6CS14,Real Time Project,Project,2,sasangeeth,2
+A6CS14,Real Time Project,Project,2,sbmanjusri,2
+A6CS14,Real Time Project,Project,2,kdanilam@,2
+A6CS53,Skill Development,Skill,2,kgagankura,2
+A6CS53,Skill Development,Skill,2,skavethee@,2
+A6CS53,Skill Development,Skill,2,sasangeeth,2
+A6CS53,Skill Development,Skill,2,pradhika@,2
+A6CS53,Skill Development,Skill,2,suseenishe,2
+A6CS53,Skill Development,Skill,2,ppurushot,2
+A6CS53,Skill Development,Skill,2,kpushpara,2
+A6HS06,Constitutional Law,Theory,2,pvictorama,2
+A6HS06,Constitutional Law,Theory,2,sbvedavidy,2
+A6II30,Introductory Statistics,Theory,3,psanthosh,2
+A6II30,Introductory Statistics,Theory,3,somasebit,2
+A6II30,Introductory Statistics,Theory,3,sbratnama,2
+A6II30,Introductory Statistics,Theory,3,sbmanjusri,2
+A6II30,Introductory Statistics,Theory,3,prahalaksh,2
+A6II30,Introductory Statistics,Theory,3,skulakeshw,2
+A6II11,Automata Theory,Theory,3,bdevanamd,2
+A6II11,Automata Theory,Theory,3,spooramitha,2
+A6II11,Automata Theory,Theory,3,bmuralikrish,2
+A6II11,Automata Theory,Theory,3,suseenishe,2
+A6CS16,Data Mining,Theory,3,kvenkatasv,3
+A6CS16,Data Mining,Theory,3,mrivasarao,3
+A6CS16,Data Mining,Theory,3,ppurushot,3
+A6CS16,Data Mining,Theory,3,sasaptham,3
+A6CS16,Data Mining,Theory,3,kphalgunei,3
+A6CS16,Data Mining,Theory,3,vthrimurthi,3
+A6CS16,Data Mining,Theory,3,kchinnamai,3
+A6AI17,Deep Learning,Theory,3,pradhika@,3
+A6AI17,Deep Learning,Theory,3,gjohnsamu,3
+A6AI17,Deep Learning,Theory,3,madakrishna,3
+A6AI17,Deep Learning,Theory,3,kbhelen@r,3
+A6AI17,Deep Learning,Theory,3,saswathi@,3
+A6AI17,Deep Learning,Theory,3,phareesh@,3
+A6AI17,Deep Learning,Theory,3,skavethee@,3
+A6HS09,Basics of Engineering,Theory,2,kgagankura,3
+A6HS09,Basics of Engineering,Theory,2,sisaphtam,3
+A6HS09,Basics of Engineering,Theory,2,phareesh@,3
+A6HS09,Basics of Engineering,Theory,2,gjohnsamu,3
+A6HS09,Basics of Engineering,Theory,2,pvictorama,3
+A6AI19,Deep Learning Lab,Lab,3,pradhika@,3
+A6AI19,Deep Learning Lab,Lab,3,gjohnsamu,3
+A6AI19,Deep Learning Lab,Lab,3,madakrishna,3
+A6AI19,Deep Learning Lab,Lab,3,kbhelen@r,3
+A6AI19,Deep Learning Lab,Lab,3,saswathi@,3
+A6AI19,Deep Learning Lab,Lab,3,phareesh@,3
+A6AI19,Deep Learning Lab,Lab,3,skavethee@,3
+A6CS17,DML Lab,Lab,3,kvenkatasw,3
+A6CS17,DML Lab,Lab,3,mrivasarao,3
+A6CS17,DML Lab,Lab,3,ppurushot,3
+A6CS17,DML Lab,Lab,3,sisaptham,3
+A6CS17,DML Lab,Lab,3,kphalgunei,3
+A6CS17,DML Lab,Lab,3,vthrimurthi,3
+A6CS17,DML Lab,Lab,3,kchinnamai,3
+A6CS21,Mini Project,Project,2,pradhika@,3
+A6CS21,Mini Project,Project,2,kgagankura,3
+A6CS21,Mini Project,Project,2,mrivasarao,3
+A6CS21,Mini Project,Project,2,kpushpara,3
+A6CS21,Mini Project,Project,2,sisaphtam,3
+A6CS21,Mini Project,Project,2,vthrimurthi,3
+A6CS21,Mini Project,Project,2,kchinnamai,3
+A6BS11,Environmental Science,Theory,2,vthrimurthi,3
+A6CS36,Cloud Security,Theory,3,nagarjuna,4
+A6CS36,Cloud Security,Theory,3,nnmadhu@co,4
+A6CS36,Cloud Security,Theory,3,gpraveen@,4
+A6CS36,Cloud Security,Theory,3,vbalakrish,4
+A6HS12,Management Science,Theory,3,smuez@co,4
+A6HS12,Management Science,Theory,3,mahammad,4
+A6CS26,Industry Oriented Project,Project,2,rajgopalrao,4
+A6HS15,Organizational Behavior,Theory,3,gjoatrakur,4
+A6HS15,Organizational Behavior,Theory,3,shaikmaha,4
+A6CS27,Major Project,Project,2,kgajankur,4
+A6CS27,Major Project,Project,2,kpushpara,4
+A6CS27,Major Project,Project,2,shaikmaha,4
+A6CS27,Major Project,Project,2,lvenkatas,4

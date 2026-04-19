@@ -1,0 +1,56 @@
+[
+  {
+    "subject_code": "A6CS06",
+    "year": 2,
+    "subject_name": "Discrete Mathematics",
+    "subject_type": "Theory",
+    "hours_per_week": 3,
+    "faculty_id": 161,
+    "faculty_name": "Dr. K. Pushpa Rani"
+  },
+  {
+    "subject_code": "A6CS53",
+    "year": 2,
+    "subject_name": "Skill Development",
+    "subject_type": "Theory",
+    "hours_per_week": 2,
+    "faculty_id": 161,
+    "faculty_name": "Dr. K. Pushpa Rani"
+  },
+  {
+    "subject_code": "A6CS11",
+    "year": 2,
+    "subject_name": "Operating System",
+    "subject_type": "Theory",
+    "hours_per_week": 3,
+    "faculty_id": 173,
+    "faculty_name": "Mrs.A Nagamani"
+  },
+  {
+    "subject_code": "A6CS12",
+    "year": 2,
+    "subject_name": "OS Lab",
+    "subject_type": "Lab",
+    "hours_per_week": 3,
+    "faculty_id": 173,
+    "faculty_name": "Mrs.A Nagamani"
+  },
+  {
+    "subject_code": "A6CS09",
+    "year": 2,
+    "subject_name": "Database Management Systems",
+    "subject_type": "Theory",
+    "hours_per_week": 3,
+    "faculty_id": 205,
+    "faculty_name": "Mrs.B.Ratnamala"
+  },
+  {
+    "subject_code": "A6CS10",
+    "year": 2,
+    "subject_name": "DBMS Lab",
+    "subject_type": "Lab",
+    "hours_per_week": 3,
+    "faculty_id": 205,
+    "faculty_name": "Mrs.B.Ratnamala"
+  }
+]
